@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Shelter APP<br>🌱 I’m currently learning Big Data Analytics / Cryptography<br>
+🔭 <br>🌱 I’m currently learning JAVA<br>
 
 
 ## 🌐 Socials:
