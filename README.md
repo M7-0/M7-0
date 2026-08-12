@@ -4,7 +4,6 @@
 
 
 ## Header
-Hi, I'm **m7-0**. This README is tuned for **personal brand** with a Satan visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=m7-0&theme=satan&mode=light" />
@@ -32,8 +31,8 @@ Shapes the short profile story and positioning.
     <img src="https://www.gitskins.com/api/section/projects?username=m7-0&theme=satan" alt="m7-0 projects section" />
   </picture>
 </p>
-## GitHub Stats
-GitSkins stat widgets will use the **Satan** theme.
+
+ ## GitHub Stats
 <img src="https://www.gitskins.com/api/section/heatmap?username=M7-0&theme=satan&style=aura"/><p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=m7-0&theme=satan&mode=light" />
