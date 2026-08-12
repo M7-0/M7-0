@@ -12,12 +12,13 @@ Hi, I'm **m7-0**. This README is tuned for **personal brand** with a Satan visua
     <img src="https://www.gitskins.com/api/section/hero?username=m7-0&theme=satan" alt="m7-0 hero section" />
   </picture>
 </p>
+
 ## About Me
 Shapes the short profile story and positioning.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=m7-0&theme=satan&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=m7-0&theme=satan" alt="m7-0 stats section" />
+<img src="https://www.gitskins.com/api/section/highlights?username=M7-0&theme=satan&style=aura" />    <img src="https://www.gitskins.com/api/section/stats?username=m7-0&theme=satan" alt="m7-0 stats section" />
   </picture>
 </p>
 <p align="center">
@@ -34,7 +35,7 @@ Shapes the short profile story and positioning.
 </p>
 ## GitHub Stats
 GitSkins stat widgets will use the **Satan** theme.
-<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=M7-0&theme=satan&style=aura"/><p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=m7-0&theme=satan&mode=light" />
     <img src="https://www.gitskins.com/api/section/social?username=m7-0&theme=satan" alt="m7-0 social section" />
