@@ -1,3 +1,9 @@
+![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=M7-0&theme=satan&style=aura)
+<img src="https://www.gitskins.com/api/section/projects?username=M7-0&theme=satan&style=aura" alt="GitSkins Animated Projects" width="860" />
+https://www.gitskins.com/api/section/projects?username=M7-0&theme=satan&style=aura
+
+
+
 # 💫 About Me:
 🔭 <br>🌱 I’m currently learning JAVA<br>
 
