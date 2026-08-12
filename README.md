@@ -2,7 +2,6 @@
 
 > Memorable developer positioning.
 
-**Theme:** Satan · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
 ## Header
 Hi, I'm **m7-0**. This README is tuned for **personal brand** with a Satan visual system.
