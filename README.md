@@ -1,17 +1,15 @@
-# m7-0
+<h1 align="center">M7-0</h1>
 
 > Memorable developer positioning.
 
 
 ## Header
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=m7-0&theme=satan&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=m7-0&theme=satan" alt="m7-0 hero section" />
-  </picture>
+ <img src="https://www.gitskins.com/api/section/hero?username=M7-0&theme=satan&style=aura"/>
 </p>
 
-## About Me
+<h2 align="center">About Me</h2>
+
 Shapes the short profile story and positioning.
 <p align="center">
   <picture>
@@ -32,7 +30,8 @@ Shapes the short profile story and positioning.
   </picture>
 </p>
 
- ## GitHub Stats
+ <h2 align="center">GitHub Stats</h2>
+
 <img src="https://www.gitskins.com/api/section/heatmap?username=M7-0&theme=satan&style=aura"/><p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=m7-0&theme=satan&mode=light" />
