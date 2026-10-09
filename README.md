@@ -34,3 +34,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=m7-0&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161316708%3Fu%3D6b63d5db52e7629cb178abaf0bed7b7b77a8b2ac%26v%3D4&repos=m7-0%2FSalamah-APP%2Cm7-0%2FGitGub-Learning%2Cm7-0%2FGit-train%2Cm7-0%2FNative-Messaging&variant=wow&v=wow-projects-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/projects?username=m7-0&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161316708%3Fu%3D6b63d5db52e7629cb178abaf0bed7b7b77a8b2ac%26v%3D4&repos=m7-0%2FSalamah-APP%2Cm7-0%2FGitGub-Learning%2Cm7-0%2FGit-train%2Cm7-0%2FNative-Messaging&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="M7 animated project constellation" />
 </picture>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=m7-0&amp;theme=autumn&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161316708%3Fu%3D6b63d5db52e7629cb178abaf0bed7b7b77a8b2ac%26v%3D4&amp;variant=wow&amp;v=wow-stack-2&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=m7-0&amp;theme=autumn&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161316708%3Fu%3D6b63d5db52e7629cb178abaf0bed7b7b77a8b2ac%26v%3D4&amp;variant=wow&amp;v=wow-stack-2&amp;mode=dark" width="100%" alt="M7 animated technology stack" />
+</picture>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=m7-0&amp;theme=autumn&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161316708%3Fu%3D6b63d5db52e7629cb178abaf0bed7b7b77a8b2ac%26v%3D4&amp;v=recruiter-heatmap-2&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=m7-0&amp;theme=autumn&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161316708%3Fu%3D6b63d5db52e7629cb178abaf0bed7b7b77a8b2ac%26v%3D4&amp;v=recruiter-heatmap-2&amp;mode=dark" width="100%" alt="M7 contribution activity" />
+</picture>
+</p>
