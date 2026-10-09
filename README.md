@@ -1,6 +1,10 @@
 <h1 align="center">M7-0</h1>
 
-[![M7-0's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=M7-0&theme=autumn&style=aura)](https://www.gitskins.com/showcase/M7-0?skin=renaissance)
+<p align="center">
+  <a href="https://www.gitskins.com/showcase/M7-0?skin=renaissance">
+    <img src="https://www.gitskins.com/api/section/hero?username=M7-0&amp;theme=autumn&amp;style=aura" alt="M7-0's animated GitSkins profile" />
+  </a>
+</p>
 <!-- Sections: Header, About Me, GitHub Stats -->
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
