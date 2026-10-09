@@ -3,7 +3,7 @@
 [![M7-0's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=M7-0&theme=autumn&style=aura)](https://www.gitskins.com/showcase/M7-0?skin=renaissance)
 <!-- Sections: Header, About Me, GitHub Stats -->
 
-=<table width="100%" align="center">
+<table width="100%" align="center">
   <tr>
     <td width="100%" align="center" valign="top">
       <picture>
@@ -13,3 +13,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=m7-0&amp;theme=autumn&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161316708%3Fu%3D6b63d5db52e7629cb178abaf0bed7b7b77a8b2ac%26v%3D4&amp;v=recruiter-stack-2&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=m7-0&amp;theme=autumn&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F161316708%3Fu%3D6b63d5db52e7629cb178abaf0bed7b7b77a8b2ac%26v%3D4&amp;v=recruiter-stack-2&amp;mode=dark" width="100%" alt="M7 technology stack" />
+</picture>
+</p>
